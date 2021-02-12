@@ -6,4 +6,4 @@ How to inlcude these can be found [here](https://askubuntu.com/questions/36523/c
 
 ## TODO
 
--[ ] Add How to include into fortune.
+- [ ] Add How to include into fortune.
